@@ -1,2 +1,0 @@
-resources:
-  - https://github.com/argoproj/argo-rollouts/blob/master/manifests/install.yaml
